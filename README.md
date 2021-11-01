@@ -1,7 +1,7 @@
 # New-Mariana
 New Mariana Sublime text theme
 
-<style>
+<style type"text/css">
 body {
   background: #fff;
   }
