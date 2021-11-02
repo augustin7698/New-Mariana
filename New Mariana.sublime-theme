@@ -1,0 +1,75 @@
+{
+	"variables":
+	{
+		"base_tint": "#FFF",
+		"base_hue": "#000",
+		"font_size": 11,
+
+		"text_fg": "#FFF",
+		"icon_tint": "#FFF",
+		"tool_tip_bg": "#000",
+
+		"sidebar_bg": "#242941",
+		"font_size_lg": 14,
+		"sidebar_heading": "#FFF",
+		"sidebar_heading_shadow": "color(#242941 a(0.36))",
+		"sidebar_label": "#FFF",
+		"sidebar_label_selected": "#FFF",
+		"sidebar_row_selected": "color(#242941 l(50%))",
+
+		"panel_bg": "#3F466B",
+
+
+
+		"scroll_bar_dark_bg": "#FFF",
+		"progress_bar_bg": "#FFF",
+		"scroll_bar_bg": "#FFF",
+
+		"overlay_bg": "#3F466B",
+		"quick_panel_label_color": "#FFF",
+		"quick_panel_selected_row_bg": "color(var(base_hue) l(100%))",
+		"quick_panel_path_label_color": "color(var(base_hue) l(100%))",
+		"quick_panel_matched_label_color": "#009F00",
+		"quick_panel_selected_path_label_color": "color(var(base_hue) l(0%))",
+
+
+		"vcs_untracked": "transparent",
+		"vcs_modified": "transparent",
+		"vcs_missing": "transparent",
+		"vcs_staged": "transparent",
+		"vcs_added": "transparent))",
+		"vcs_deleted": "transparent",
+		"vcs_unmerged": "transparent))",
+	},
+
+
+	"rules":
+	[
+		{
+			"class": "status_bar",
+			"layer0.tint": "#3F466B",
+			"layer0.opacity": 1.0,
+			"content_margin": [5, 0, 0, 0],
+		},
+		{
+			"class": "sidebar_container",
+			"layer0.tint": "var(sidebar_bg)",
+			"layer0.opacity": 1,
+			"content_margin": -3,
+			"border_color": "#fff",
+			"border_size": 5,
+		},
+		{
+			"class": "sidebar_label",
+			"parents": [{"class": "tree_row", "attributes": ["highlighted"]}],
+			"fg": "var(sidebar_label_selected)",
+			"font.size": 11.6,
+		},
+		{
+			"class": "scroll_track_control",
+			"layer0.opacity": 0.1,
+			"layer1.opacity": 1,
+			"layer1.tint": "#5A618A",
+		},
+	]
+}
