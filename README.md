@@ -19,7 +19,7 @@
 <p>
 	&emsp;&emsp;<b>Part 1</b>
 	<br />
-	&emsp;&emsp;&emsp;&emsp;<b>Part 1</b>-  copy the content of <code>New Mariana.sublime-color-sheme</code>.
+	&emsp;&emsp;&emsp;&emsp;<b>Part 1</b>-  copy the content of <code>New-Mariana-sublime-color-sheme.json</code>.
 	<br />
 	&emsp;&emsp;&emsp;&emsp;- open the control panel with <code>ctrl+shift+p</code>.
 	<br />
@@ -29,9 +29,9 @@
 	<br />
 	&emsp;&emsp;<b>Part 2</b>
 	<br />
-	&emsp;&emsp;&emsp;&emsp;- copy the content of <code>New Mariana.sublime-theme</code>.
+	&emsp;&emsp;&emsp;&emsp;- copy the content of <code>New-Mariana-sublime-theme.json</code>.
 	<br />
-	&emsp;&emsp;&emsp;&emsp;- open the control panel with <code>ctrl+shift+p</code>.
+	&emsp;&emsp;&emsp;&emsp;- open the control panel with <code>ctrl + shift + p</code>.
 	<br />
 	&emsp;&emsp;&emsp;&emsp;- search <code>UI: Select Theme</code>, press <code>enter</code>, click on <code>Default.sublime-theme</code>.
 	<br />
