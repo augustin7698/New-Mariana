@@ -44,6 +44,8 @@
 </p>
 <br />
 <b>preview:</b>
-<img src="">
-<img src="">
-<img src="">
+<br />
+<br />
+<img src="https://github.com/augustin7698/New-Mariana/blob/main/picture/New%20Mariana.png">
+<img src="https://github.com/augustin7698/New-Mariana/blob/main/picture/New%20Mariana2.png">
+<img src="https://github.com/augustin7698/New-Mariana/blob/main/picture/New%20Mariana3.png">
