@@ -19,8 +19,6 @@
 <p>
 	&emsp;&emsp;<b>Part 1</b>
 	<br />
-	&emsp;&emsp;&emsp;&emsp;<b>Part 1</b>
-	<br />
 	&emsp;&emsp;&emsp;&emsp;-  copy the content of <code>New Mariana.sublime-color-sheme</code>.
 	<br />
 	&emsp;&emsp;&emsp;&emsp;- open the control panel with <code>ctrl+shift+p</code>.
